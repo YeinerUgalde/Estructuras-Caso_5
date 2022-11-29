@@ -45,7 +45,7 @@ class User_matches {
 
         void getTop10Mathc(){
             //grafo->diez_primeros();
-            grafo->diez_primeros2(0);
+            grafo->diez_primeros();
         }
 
         

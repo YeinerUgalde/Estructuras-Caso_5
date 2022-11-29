@@ -38,7 +38,7 @@ class NetWork {
                 } 
                 
                 
-                cout << "Usuario: "  << usuario1->getNick() << " ID: " << i << endl;
+                //cout << "Usuario: "  << usuario1->getNick() << " ID: " << i << endl;
                 for(int j = 0; j < pUsuarios.size(); j++){
                     Usuario *usuario2 = pUsuarios[j];
 
