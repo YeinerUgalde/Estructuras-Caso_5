@@ -9,7 +9,8 @@ using namespace std;
 int main(){
  
   NetWork *netWork = new NetWork();
-  netWork->init("C:/Users/Yeiner/OneDrive/Escritorio/Caso 5 - copia","Registro");
+  netWork->init("C:/Users/Yeiner/OneDrive/Escritorio/Caso_5_git/Estructuras-Caso_5/Caso 5","Registro");
+  //C:\Users\Yeiner\OneDrive\Escritorio\Caso_5_git\Estructuras-Caso_5\Caso 5
   //netWork->generate_usuarios(netWork->getUsuarios());
 
   Manager manager;
